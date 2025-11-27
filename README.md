@@ -41,10 +41,10 @@ The dashboard provides actionable insights for strategic decision-making.
 ## Dashboard Preview
 
 ### Main Dashboard
-![Dashboard Overview](images/dashboard_page1.png)
+![Dashboard Overview](Images/Dashboard_Page.PNG)
 
 ### Insights & Recommendations
-![Insights Page](images/insights_page2.png)
+![Insights Page](Images/Insights_Page.PNG)
 
 ## Project Structure
 ```
