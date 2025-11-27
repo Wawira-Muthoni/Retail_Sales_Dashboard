@@ -1,0 +1,26 @@
+Date,Region,ProductCategory,ProductName,SalesAmount,UnitsSold,CustomerSatisfaction,StoreLocation,Latitude,Longitude
+01-01-23,North,Electronics,Laptop,1000,10,4.5,New York,40.7128,-74.006
+02-01-23,South,Furniture,Sofa,1200,8,4.2,Miami,25.7617,-80.1918
+03-01-23,East,Clothing,Jacket,600,30,4.6,Boston,42.3601,-71.0589
+04-01-23,West,Electronics,TV,1500,7,4.3,Los Angeles,34.0522,-118.2437
+05-01-23,North,Furniture,Table,800,12,4,Chicago,41.8781,-87.6298
+06-01-23,South,Electronics,Smartphone,900,15,4.4,Houston,29.7604,-95.3698
+07-01-23,East,Clothing,T-Shirt,300,50,4.8,Philadelphia,39.9526,-75.1652
+08-01-23,West,Furniture,Chair,400,20,4.1,Seattle,47.6062,-122.3321
+09-01-23,North,Electronics,Tablet,1100,11,4.7,New York,40.7128,-74.006
+10-01-23,South,Furniture,Bed,1500,5,4.3,Miami,25.7617,-80.1918
+11-01-23,North,Electronics,Camera,2000,20,4.6,Dallas,32.7767,-96.797
+12-01-23,South,Furniture,Couch,1800,18,4.3,Atlanta,33.749,-84.388
+13-01-23,East,Clothing,Jeans,700,25,4.7,Chicago,41.8781,-87.6298
+14-01-23,West,Electronics,Projector,1400,17,4.5,Los Angeles,34.0522,-118.2437
+15-01-23,North,Furniture,Dresser,900,13,4.1,Houston,29.7604,-95.3698
+16-01-23,South,Electronics,Headphones,1300,10,4.4,Miami,25.7617,-80.1918
+17-01-23,East,Clothing,Sweater,950,15,4.6,Philadelphia,39.9526,-75.1652
+18-01-23,West,Furniture,Stool,500,20,4.3,Chicago,41.8781,-87.6298
+19-01-23,North,Electronics,Smartwatch,1250,22,4.5,Houston,29.7604,-95.3698
+20-01-23,South,Furniture,Bedside Table,1600,18,4.6,Dallas,32.7767,-96.797
+21-01-23,North,Electronics,Monitor,2200,25,4.2,Boston,42.3601,-71.0589
+22-01-23,South,Furniture,Bookshelf,1900,10,4.4,Atlanta,33.749,-84.388
+23-01-23,East,Clothing,Sweatshirt,800,30,4.5,New York,40.7128,-74.006
+24-01-23,West,Electronics,Microwave,1700,15,4.3,Los Angeles,34.0522,-118.2437
+25-01-23,North,Furniture,Nightstand,1100,12,4.5,Seattle,47.6062,-122.3321
